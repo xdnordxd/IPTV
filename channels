@@ -632,3 +632,5 @@ https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ZeeAflam.in" tvg-country="IN" tvg-language="Arabic" tvg-logo="https://i.imgur.com/O3tRhpO.png" group-title="Undefined",Zee Aflam (720p) [Not 24/7]
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
+#EXTINF:-1 tvg-id="Alkaaes.one" tvg-country="QA" tvg-language="Arabic" tvg-logo="https://1.bp.blogspot.com/-Bi9DbisqkFk/X_CnvhoVTxI/AAAAAAAAAQM/0eUWBbpHwIQ9oWmrlF12btihvxjsjf9zQCLcBGAsYHQ/w400-h200-p-k-no-nu/1.png" group-title="Undefined",Alkaaes One (1080p)
+https://streamalkasscustom.azureedge.net/livehttporigin/smil:YWxrYXNh1.smil/playlist.m3u8?hdnts=exp=1668954190~hmac=a1c84963febdb4c260fe91dd315b3d55f7581e15ae3d2bdea221642ab996c4d0
